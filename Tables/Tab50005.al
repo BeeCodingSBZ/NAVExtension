@@ -29,6 +29,7 @@ table 50105 MyTable
         {
             DataClassification = ToBeClassified;
         }
+        field(100;comment;text[50]){}
     }
 
     keys
