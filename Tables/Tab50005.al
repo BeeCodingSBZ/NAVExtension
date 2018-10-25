@@ -29,14 +29,11 @@ table 50105 MyTable
         {
             DataClassification = ToBeClassified;
         }
-<<<<<<< HEAD
         field(100;comment;text[50]){}
-=======
         field(8;Amount10;Decimal)
         {
             DataClassification = ToBeClassified;
         }
->>>>>>> one
     }
 
     keys
