@@ -1,0 +1,23 @@
+{
+  "id": "c51d7129-58c1-49a2-aa91-0978396b78d8",
+  "name": "NAVExtension",
+  "publisher": "BeeCoding",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50010,
+    "to": 50149
+  }
+}
