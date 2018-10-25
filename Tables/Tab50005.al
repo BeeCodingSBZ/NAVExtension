@@ -8,6 +8,10 @@ table 50105 MyTable
         {
             DataClassification = ToBeClassified;
         }
+        field(2;Id;Integer)
+        {
+            DataClassification = ToBeClassified;
+        }
     }
 
     keys
