@@ -12,6 +12,10 @@ table 50105 MyTable
         {
             DataClassification = ToBeClassified;
         }
+        field(3;Name;text[30])
+        {
+            DataClassification = ToBeClassified;
+        }
     }
 
     keys
