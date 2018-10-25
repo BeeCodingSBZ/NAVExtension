@@ -25,6 +25,10 @@ table 50105 MyTable
         {
             DataClassification = ToBeClassified;
         }
+        field(6;Amount2;Decimal)
+        {
+            DataClassification = ToBeClassified;
+        }
     }
 
     keys
