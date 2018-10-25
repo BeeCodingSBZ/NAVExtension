@@ -12,7 +12,8 @@ table 50105 MyTable
         {
             DataClassification = ToBeClassified;
         }
-        field(4;Desc;Text[50])
+        field(4;Desc;Text[50]){}
+        field(3;Name;text[30])
         {
             DataClassification = ToBeClassified;
         }
