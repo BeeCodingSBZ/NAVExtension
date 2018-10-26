@@ -30,7 +30,7 @@ table 50105 MyTable
             DataClassification = ToBeClassified;
         }
         field(100;comment;text[50]){}
-        field(8;Amount10;Decimal)
+        field(8;Amount10;Decimal){}
         field(7;Amount3;Decimal)
         {
             DataClassification = ToBeClassified;
